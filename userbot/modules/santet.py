@@ -315,7 +315,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("Korban Berhasil Disantet")
     sleep(5)
-    await typew.edit("Tapi Boong, Hiyak Hiyak Hiyak!")
+    await typew.edit("Target Locked !!")
     # Karyaku sendiri by @AkameNFS
 
 
